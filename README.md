@@ -2,8 +2,6 @@
 
 The website of the STUTZ
 
-
-
 # Features
 
 - Responsive
@@ -32,3 +30,34 @@ The website of the STUTZ
 - Conditionals
 - `ge` (greater than or equal to)
 - `.Site.Params.mainSections` to avoid hard-coding "blog," etc. 
+
+# Installation
+
+## Install Hugo
+### MacOS
+```
+brew install hugo
+```
+### Windows
+Install Chocolatey, see https://chocolatey.org/install
+
+Open Command prompt as admin
+```
+choco install hugo -confirm
+```
+### Linux
+```
+sudo apt-get install hugo
+```
+or use snap in Ubuntu store.
+
+## Install Website
+```
+git clone https://github.com/StutzCoin/website.git
+cd website
+hugo server -D
+```
+
+Browse website at http://localhost:1313
+
+
