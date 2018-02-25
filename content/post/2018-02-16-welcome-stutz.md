@@ -32,3 +32,5 @@ Since that the core team is developing, writing, brainstorming and setting up th
   - Airdrop to be announced (no ICO!)
   - More STUTZ memes to follow
   - Coming to a community near you soon
+  - More to come soon
+  
