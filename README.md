@@ -33,6 +33,9 @@ The website of the STUTZ
 
 # Installation
 
+## Install GIT
+see https://git-scm.com/downloads
+
 ## Install Hugo
 ### MacOS
 ```
@@ -41,7 +44,7 @@ brew install hugo
 ### Windows
 Install Chocolatey, see https://chocolatey.org/install
 
-Open Command prompt as admin
+Open Command prompt as admin (right click as administrator)
 ```
 choco install hugo -confirm
 ```
